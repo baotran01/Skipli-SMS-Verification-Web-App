@@ -45,7 +45,7 @@ Create a firebase.js file in frontend src directory. In there copy the starting 
 Set up Twilio
 ```
 Create Twilio account on Twilio website
-Create a .env file inside backend directory and paste your Twilio credentials there. Make sure you have a valid Twilio phone number.
+Create an .env file inside backend directory and paste your Twilio credentials there. Make sure you have a valid Twilio phone number.
 ```
 
 Set up the server
