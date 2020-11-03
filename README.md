@@ -1,9 +1,9 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.postimg.cc/WpDC7FXY/man-reading-newspaper.png" alt="Project logo"></a>
+ <img width=200px height=200px src="https://www.clipartmax.com/png/middle/76-761259_mobile-number-icons-phone-number-verification-icon.png" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Online Newspaper Reader</h3>
+<h3 align="center">Phone Number Verification Web App</h3>
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 
 ---
 
-<p align="center"> A Chrome Extension for reading Vietnamese Online Newspapers
+<p align="center"> A Web app for verifying mobile phone number through SMS
     <br> 
 </p>
 
@@ -27,7 +27,7 @@
 - [Authors](#authors)
 
 ## 🧐 About <a name = "about"></a>
-Skipli Take Home Project - SMS Verfication Web App using React.js, Express.js, Node,js, Firebase and Twilio API
+Skipli Take Home Project - Phone Number Verfication Web App through SMS using React.js, Express.js, Node,js, Firebase and Twilio API
 
 
 ## ⛏️ Built Using <a name = "built_using"></a>
