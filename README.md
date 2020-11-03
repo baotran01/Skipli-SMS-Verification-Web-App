@@ -35,8 +35,8 @@ Skipli Take Home Project - Phone Number Verfication Web App through SMS using Re
 - [Firebase](https://firebase.google.com/) - Realtime Database
 - [Twilio](https://www.twilio.com/) - Messaging API
 
-### 🔧 Installation
-Set up Firebase
+## 🔧 Installation
+#### Set up Firebase
 ```
 Create Firebase account on Firebase website
 Create an 'util' folder inside src folder of frontend directory
@@ -60,13 +60,13 @@ const firebaseConfig = {
 export default firebase;
 ```
 
-Set up Twilio
+#### Set up Twilio
 ```
 Create Twilio account on Twilio website
 Create an .env file inside backend directory and paste your Twilio credentials there. Make sure you have a valid Twilio phone number.
 ```
 
-Set up the server
+#### Set up the server
 
 ```
 cd backend
@@ -74,7 +74,7 @@ npm install
 nodemon app
 ```
 
-Set up client side
+#### Set up client side
 
 ```
 cd frontend
