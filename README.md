@@ -40,7 +40,7 @@ Skipli Take Home Project - Phone Number Verfication Web App through SMS using Re
 ```
 Create Firebase account on Firebase website
 Create an 'util' folder inside src folder of frontend directory
-Create a firebase.js file in the util folder. 
+Create a firebase.js file in the util folder 
 In there copy the starting code of Firebase with your credentials to initialize (Which can be found on Firebase Website)
 ```
 ```javascript
@@ -63,7 +63,7 @@ export default firebase;
 #### Set up Twilio
 ```
 Create Twilio account on Twilio website
-Create an .env file inside backend directory and paste your Twilio credentials there. 
+Create an .env file inside backend directory and paste your Twilio credentials there
 Make sure you have a valid phone number which is verified with Twilio.
 ```
 
