@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+
+@media (prefers-reduced-motion: no-preference) {
+}
+
+.form-control {
+  width: 50%;
+  border: 1px solid #ccc;
+  padding: 10px; 
+}
+
+.control-error {
+  border: 1px solid red;
+}
