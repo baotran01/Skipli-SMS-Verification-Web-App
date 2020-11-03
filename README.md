@@ -39,7 +39,26 @@ Skipli Take Home Project - Phone Number Verfication Web App through SMS using Re
 Set up Firebase
 ```
 Create Firebase account on Firebase website
-Create a firebase.js file in frontend src directory. In there copy the starting code of Firebase with your credentials to initialize.
+Create an 'util' folder inside src folder of frontend directory
+Create a firebase.js file in the util folder. 
+In there copy the starting code of Firebase with your credentials to initialize (Which can be found on Firebase Website)
+
+import firebase from 'firebase';
+
+const firebaseConfig = {
+    apiKey: "your_key",
+    authDomain: "your_key",
+    databaseURL: "your_key",
+    projectId: "your_key",
+    storageBucket: "your_key",
+    messagingSenderId: "your_key",
+    appId: "your_key"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+
+export default firebase;
+
 ```
 
 Set up Twilio
