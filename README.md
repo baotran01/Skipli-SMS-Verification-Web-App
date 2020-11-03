@@ -42,9 +42,9 @@ Create Firebase account on Firebase website
 Create an 'util' folder inside src folder of frontend directory
 Create a firebase.js file in the util folder. 
 In there copy the starting code of Firebase with your credentials to initialize (Which can be found on Firebase Website)
-
+```
+```javascript
 import firebase from 'firebase';
-
 const firebaseConfig = {
     apiKey: "your_key",
     authDomain: "your_key",
@@ -58,7 +58,6 @@ const firebaseConfig = {
   firebase.initializeApp(firebaseConfig);
 
 export default firebase;
-
 ```
 
 Set up Twilio
