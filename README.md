@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.freeiconspng.com/img/5465" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/mobile-sms-icon-5.png" width="350" alt="mobile sms icon" /></a>
+  <a href="https://www.freeiconspng.com/img/5465" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/mobile-sms-icon-5.png" width="200" alt="mobile sms icon" /></a>
 </p>
 
 <h3 align="center">Phone Number Verification Web App</h3>
