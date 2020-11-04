@@ -36,7 +36,7 @@ Skipli Take Home Project - Phone Number Verfication Web App through SMS using Re
 - [Firebase](https://firebase.google.com/) - Realtime Database
 - [Twilio](https://www.twilio.com/) - Messaging API
 
-## 🔧 Installation
+## 🔧 Installation <a name = "installation"></a>
 #### Set up Firebase
 ```
 Create Firebase account on Firebase website
