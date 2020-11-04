@@ -22,6 +22,7 @@
 ## 📝 Table of Contents
 - [About](#about)
 - [Built Using](#built_using)
+- [Installation](#installation)
 - [Authors](#authors)
 
 ## 🧐 About <a name = "about"></a>
