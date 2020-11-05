@@ -65,7 +65,14 @@ export default firebase;
 ```
 Create Twilio account on Twilio website
 Create an .env file inside backend directory and paste your Twilio credentials there
-Make sure you have a valid phone number which is verified with Twilio.
+Make sure you have a valid phone number which is verified with Twilio
+```
+
+##### .env file
+```
+TWILIO_ACCOUNT_SID= 'your_key'
+TWILIO_AUTH_TOKEN='your_key'
+TWILIO_PHONE_NUMBER= 'your_twilio_phone_num'
 ```
 
 #### Set up the server
