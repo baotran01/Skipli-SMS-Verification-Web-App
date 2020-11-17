@@ -26,7 +26,7 @@
 - [Authors](#authors)
 
 ## 🧐 About <a name = "about"></a>
-Skipli Take Home Project - Phone Number Verfication Web App through SMS using React.js, Express.js, Node,js, Firebase and Twilio API
+Phone Number Verfication Web App through SMS using React.js, Express.js, Node,js, Firebase and Twilio API
 
 
 ## ⛏️ Built Using <a name = "built_using"></a>
